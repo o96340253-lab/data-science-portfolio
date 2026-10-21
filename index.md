@@ -1,8 +1,7 @@
 # My Data Science Portfolio
 ## About Me
 **【GAN RUIYAN】**
-Short intro：A student studying data science. I practice exploratory data analysis and data visualization with public datasets, and learn to build reproducible data projects.
-
+Short intro：A student studying data science. I practice exploratory data analysis and data visualization with public datasets, and learn to build reproducible EDA projects and static portfolio pages with GitHub Pages.
 ## Technical Skills
 Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, Git & GitHub
 
